@@ -14,3 +14,7 @@
 </div>
 
 ---
+
+<div align='center' style='margin-top: 15px;'>
+   <a href='https://discord.gg/7RekWVTs4W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1018601234439090316?color=%23ed1c24&label=DISCORD&logo=discord&style=for-the-badge'></a>
+</div>
